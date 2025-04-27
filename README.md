@@ -1,1 +1,146 @@
-# NSR-Medcycle
+<!DOCTYPE html>
+<html lang="en">
+<head><link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+   
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NSR MedCycle | Revenue Cycle Management Solutions</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f6f8;
+      color: #333;
+    }
+    header {
+      background-color: #007bff;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background: #0056b3;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 40px;
+    }
+    .services, .contact {
+      background: white;
+      border-radius: 8px;
+      padding: 20px;
+      margin: 20px auto;
+      max-width: 1000px;
+      box-shadow: 0px 2px 8px rgba(0,0,0,0.1);
+    }
+    footer {
+      background: #003d80;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      position: relative;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Welcome to NSR MedCycle</h1>
+    <p>Your Partner in Revenue Cycle Management</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <div class="services">
+      <h2>About Us</h2>
+      <p>NSR MedCycle is committed to empowering healthcare providers by optimizing their revenue cycle management processes. We help practices enhance cash flow, reduce denials, and stay compliant with evolving healthcare regulations.</p>
+    </div>
+  </section>
+
+  <section id="services">
+    <div class="services">
+      <h2>Our Services</h2>
+      <ul>
+        <li>Medical Billing & Coding</li>
+        <li>Accounts Receivable Management</li>
+        <li>Denial Management</li>
+        <li>Credentialing & Enrollment</li>
+        <li>Compliance & Strategic Consulting</li>
+      </ul>
+    </div>
+  </section>
+  <section id="faculty">
+    <div class="services">
+      <h2>Our Faculty</h2>
+      <p>Meet the experienced professionals leading NSR MedCycle with expertise, dedication, and a commitment to excellence:</p>
+      
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  
+        <!-- Faculty Member 1 -->
+        <div style="background: #fff; padding: 20px; width: 250px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); text-align: center;">
+          <img src="images/john.jpg" alt="santhosh D" style="width:100px; height:100px; border-radius: 50%; object-fit: cover; margin-bottom: 15px;">
+          <h3>santhosh D</h3>
+          <p><strong>CEO & Founder</strong></p>
+          <p>10+ years of experience in healthcare revenue cycle management and medical billing solutions.</p>
+        </div>
+  
+        <!-- Faculty Member 2 -->
+        <div style="background: #fff; padding: 20px; width: 250px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); text-align: center;">
+          <img src="images/sarah.jpg" alt="Sindhu S" style="width:100px; height:100px; border-radius: 50%; object-fit: cover; margin-bottom: 15px;">
+          <h3>Sindhu S</h3>
+          <p><strong>Director of Operations</strong></p>
+          <p>Expert in compliance management, medical coding audits, and healthcare consulting services.</p>
+        </div>
+  <!-- Faculty Member 3 -->
+  <div style="background: #fff; padding: 20px; width: 250px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); text-align: center;">
+    <img src="images/david.jpg" alt="Naveen Kumar C" style="width:100px; height:100px; border-radius: 50%; object-fit: cover; margin-bottom: 15px;">
+    <h3>Naveen Kumar C</h3>
+    <p><strong>Billing Manager</strong></p>
+    <p>Specialist in billing operations, AR recovery, and claim denial resolutions.</p>
+  </div>
+        <!-- Faculty Member 4 -->
+        <div style="background: #fff; padding: 20px; width: 250px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); text-align: center;">
+          <img src="images/david.jpg" alt="Ravinder G" style="width:100px; height:100px; border-radius: 50%; object-fit: cover; margin-bottom: 15px;">
+          <h3>Ravinder G</h3>
+          <p><strong>Billing Manager</strong></p>
+          <p>Specialist in billing operations, AR recovery, and claim denial resolutions.</p>
+        </div>
+  
+      </div>
+  
+    </div>
+  </section>
+  
+  
+
+  <section id="contact">
+    <div class="contact">
+      <h2>Contact Us</h2>
+      <p>Email: <a href="mailto:nsrmedcycle@gmail.com">nsrmedcycle.com</a></p>
+      <p>Phone: +91 7661023328</p>
+      <p>Website: www.nsrmedcycle.com</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 NSR MedCycle. All Rights Reserved.</p>
+  </footer>
+</body>
+
+</html>
